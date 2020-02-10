@@ -25,6 +25,7 @@
 * ⭐️     154         [fluttercandies/ncov_2019](https://github.com/fluttercandies/ncov_2019) 获取新肺炎实时动态App，支持Android和IOS。
 * [GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019) [query stats of infected coronavirus cases](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
 * [canghailan/Wuhan-2019-nCoV](https://github.com/canghailan/Wuhan-2019-nCoV) 2019-nCoV 新冠状病毒 2019-12-01至今国家、省、市三级每日统计数据（支持接口读取）
+* [sinchang/2019-ncov-data-wenzhou](https://github.com/sinchang/2019-ncov-data-wenzhou) 新型冠状病毒疫情温州市数据
 
 
 ### 导航网页 Navigation page
